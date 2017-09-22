@@ -4,8 +4,8 @@
 
 Existem:
 - Cena de teste Main.unity;
-- Classe Potion.cs;
-- Banco de dados com a lista de potions no script PotionDB.cs no prefab Resources/PotionDB;
+- Classe Potion.cs !!NÃO MEXE!!;
+- Banco de dados com a lista de potions no script PotionDB.cs no prefab Resources/PotionDB !!NÃO MEXE!!;
 - Script TestBehaviour.cs que server como exemplo, para testar e pra vocês editarem;
 
 Vocês farão um PropertyDrawer para o atributo PotionSelectorAttribute (dentro do script TestBehaviour.cs).
